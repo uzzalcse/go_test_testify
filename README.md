@@ -14,8 +14,7 @@ A basic example showing how to test addition operations using the Testify testin
 ## Clone the repostitory
 
 ```bash
-git clone github.com/uzzalcse/go_test_testify.git
-```
+git clone https://github.com/uzzalcse/go_test_testify.git
 
 ## Running Tests
 
